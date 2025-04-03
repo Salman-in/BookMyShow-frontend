@@ -1,12 +1,12 @@
-# React + Vite
+# BookMyShow Clone (Frontend)  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React + Bootstrap** frontend clone of BookMyShow with a responsive UI for browsing and booking movies.  
 
-Currently, two official plugins are available:
+## ⚡ Tech Stack  
+- **React (Vite)** | **Bootstrap** | **React Router**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
+- Movie listings, show timings & seat selection  
+- Responsive design  
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Extend with APIs for real booking!
